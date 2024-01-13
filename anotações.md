@@ -54,3 +54,16 @@ Símbolos:
 </ol>
 
 ![Diagrama em branco - Página 1](https://github.com/Mello8266/Java/assets/95052043/6f0e7dd3-3edd-495b-8e09-72d407cc40c1)
+
+<h1> Aula 4</h1>
+<h2> Métodos especiais </h2>
+<h3> Métodos acessores - getters </h3>
+Método que pega alguma informação. <br>
+Exemplo: getSaldo() - método que retorna a informação do atributo saldo, ou seja, a quantidade de dinheiro na conta.
+
+<h3> Métodos modificadores - setters</h3>
+Método que adiciona informação ao atributo. <br>
+Exemplo: setsaldo(100) - método que adiciona 100 de dinheiro (parâmetro) ao atributo saldo. 
+
+<h3> Método construtor - construct </h3>
+Método que automatiza o instânciamento de um objeto, definindo como será a construção do objeto. 
