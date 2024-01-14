@@ -79,6 +79,7 @@ Elaboração de um projeto que simula uma conta bancária, tranformando a conta 
   "Encapsular é ocultar partes independentes da implementação, permitindo construir partes invisíveis ao mundo exterior" <br>
   Mensagem é o jeito de interagir com uma capsula por meio de sua interface, sem precisar mexer diretamente no sistema. <br>
   "Interface é uma lista de serviços fornecidas por um componente. É o contato com o mundo exterior que define o que pode ser feito com um objeto dessa classe". <br>
-  Não há atributos na interface, apenas métodos.
+  Não há atributos na interface, apenas métodos abstrados - Apenas é mostrado a função dele, sem que o código esteja exposto.
+
 <h3> Herança </h3>
 <h3> Polimorfismo </h3>
