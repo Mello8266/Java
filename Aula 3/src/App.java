@@ -8,5 +8,6 @@ public class App {
         //c1.tampada = true; // Aqui fora não pode mexer em atributos privados
         c1.tampar(); 
         c1.status();     
+        
     }
 }
