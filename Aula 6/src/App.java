@@ -1,5 +1,3 @@
-import javax.sound.sampled.Control;
-
 public class App {
     public static void main(String[] args) throws Exception {
         Controle c = new Controle();
