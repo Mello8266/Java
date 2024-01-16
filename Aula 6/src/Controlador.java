@@ -1,12 +1,12 @@
 public interface Controlador {
-    public abstract ligar();
-    public abstract desligar();
-    public abstract abrirMenu();
-    public abstract fecharMenu();
-    public abstract maisVolume();
-    public abstract menosVolume();
-    public abstract ligarMudo();
-    public abstract desligarMudo();
-    public abstract play();
-    public abstract pause();
+    public abstract void ligar();
+    public abstract void desligar();
+    public abstract void abrirMenu();
+    public abstract void fecharMenu();
+    public abstract void maisVolume(int n);
+    public abstract void menosVolume(int n);
+    public abstract void ligarMudo();
+    public abstract void desligarMudo();
+    public abstract void play();
+    public abstract void pause();
 }
