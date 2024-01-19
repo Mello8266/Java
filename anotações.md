@@ -85,8 +85,9 @@ Elaboração de um projeto que simula uma conta bancária, tranformando a conta 
 <h2> Prática com relacionamente entre classes</h2>
 Começo do projeto do UEC.
 
-
-
+<h1> Aula 8 </h1>
+<h2> Relacionamento de agregação </h2>
+Tipo abstrado de dados - transforma a classe em tipos de dados abstrados, cada instância da classe estará numa variável.
 
 
 
