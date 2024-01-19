@@ -9,7 +9,7 @@ public class Luta{
 
     //? Métodos
     public void marcarLuta(Lutador l1, Lutador l2){
-        if (l1.getCategoria() == l2.getCategoria() && l1 != l2){
+        if (l1.getCategoria().equals(l2.getCategoria()) && l1 != l2){
             setAprovado(true);
             setDesafiado(l1);
             setDesafiante(l2);
@@ -27,8 +27,9 @@ public class Luta{
             System.out.println("===== Apresentando a luta entre " + this.desafiante.getNome() 
             + " VERSUS " + this.desafiado.getNome() + " =====");
             System.out.print("E A LUTA TERMINA EM ");
-            Random vencedor = new Random();
-            switch (vencedor.nextInt(0, 2)){
+            Random aleatorio = new Random();
+            int vencedor = aleatorio.nextInt(3);
+            switch (vencedor){
                 case 0:
                     System.out.println("EMPATE");
                     this.desafiado.empate();
