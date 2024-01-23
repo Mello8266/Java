@@ -92,7 +92,4 @@ Tipo abstrado de dados - transforma a classe em tipos de dados abstrados, cada i
 <h1> Aula 9 </h1>
 <h2> Exercícos de POO</h2>
 Exercícios de concurso sobre programação orientada a objetos.
-
->
-
-![image](https://github.com/Mello8266/Java/assets/95052043/3d4ed84e-6912-4c5c-940a-6b43abef8c17)
+<a href="https://github.com/Mello8266/Java/blob/main/exercicios.md"> Exercícios </a>
