@@ -93,3 +93,39 @@ Tipo abstrado de dados - transforma a classe em tipos de dados abstrados, cada i
 <h2> Exercícos de POO</h2>
 Exercícios de concurso sobre programação orientada a objetos.
 <a href="https://github.com/Mello8266/Java/blob/main/exercicios.md"> Exercícios </a>
+
+<h1> Aula 10 </h1>
+<h2> Herança </h2>
+"Permite basear uma nova classe na definição de uma outra classe previamente existente." </br>
+"A herança será aplicada tanto para as características quanto para os comportamentos." </br>
+A classe que será herdada é a classe mãe/progenitora/superclasse. Já a classe gerada a parti da herança, é a classe filha/subclasse.
+
+# Aula 11
+## Herança 2
+### Subclasses também podem ser progenitoras de outras classes 
+Exemplo, a classe progenitora A e a sua subclasse B. A subclasse B também pode ser progenitora de outras subclasses, fazendo com que as subclasses de B herdem, caracarísticas e comportamentos, tanto da classe A quanto da classe B. Do ponto de vista da classe B, ela é subclasse da classe progenitora A. Do ponto de vista das subclasses de B (BA e BB), elas são subclasses da superclasse B.
+Tanto a classe BA quanto a BB, também podem ser progenitoras de novas subclasses, daí se segue o mesmo padrão descrito anteriormente. </br>
+Uma classe que não é subclasse de nehnuma classe é considerada a raiz da árvore hierárquica. As classes sem subclasses são denominadas de folhas. </br>
+Resumindo o exemplo, a classe A, raiz da hierarquia de classes, é mãe da subclasse B que é superclasse das classes BA e BB. A classe A é ancestral das classes BA e BB, e BA e BB são descendentes de A.
+
+### Tipos de herança
+**Herança de implementação**
+* Herança pobre
+* Faz a implementação de uma classe abstrata.
+
+**Herança para a diferença**
+* Herança que aplica algo em métodos já existentes
+* Sobrescrição de método
+
+### Classe abstrata
+"Não pode ser instanciada. Só pode servir como progenitora."
+
+### Método abstrato
+"Declarado, mas não implementado na progenitora." </br>
+Só pode ser colocado dentro de uma interface ou classe abstrata.
+
+### Classe final
+"Não pode ser herdada por outra classe. Obrigatoriamente folha."
+
+### Método final
+"Não pode ser sobrescrito por suas sub-classes. Obrigatoriamente herdado."
