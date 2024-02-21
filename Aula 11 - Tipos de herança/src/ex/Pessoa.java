@@ -1,12 +1,12 @@
 package ex;
 public abstract class Pessoa {
     //* Atributos
-    private String nome;
-    private int idade;
-    private String sexo;
+    protected String nome;
+    protected int idade;
+    protected String sexo;
 
     //? Método final
-    public void fazerAniv(){
+    public final void fazerAniv(){
         this.idade ++;
     }
 

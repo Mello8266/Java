@@ -6,7 +6,7 @@ public class Aluno extends Pessoa{
 
     //? Método
     public void pagarMensalidade(){
-        System.out.println("Pagando a mensalidade.");
+        System.out.println("Pagando a mensalidade. " + this.nome);
     }
 
     //! Métodos especiais
