@@ -129,3 +129,18 @@ Só pode ser colocado dentro de uma interface ou classe abstrata.
 
 ### Método final
 "Não pode ser sobrescrito por suas sub-classes. Obrigatoriamente herdado."
+
+# Aula 12
+## Polimorfismo 
+Permite que o mesmo nome represente vários comportamentos diferentes. </br>
+Poli = muitas </br>
+morfo = formas
+
+### Assinatura do método
+Quantidade e tipos de parâmetros.
+
+![code](https://github.com/Mello8266/Java/assets/95052043/2a04f6ac-fe85-47f7-9e73-2f759f785dfe)
+
+### Tipos de polimorfismo
+#### Sobreposição
+Sobrescreve o código do método da superclasse na sua subclasse, usando a mesma assinatura, e não, necessariamente, tendo o mesmo retorno.
