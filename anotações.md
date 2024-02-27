@@ -141,6 +141,12 @@ Quantidade e tipos de parâmetros.
 
 ![code](https://github.com/Mello8266/Java/assets/95052043/2a04f6ac-fe85-47f7-9e73-2f759f785dfe)
 
+# Aula 13
 ### Tipos de polimorfismo
 #### Sobreposição
 Sobrescreve o código do método da superclasse na sua subclasse, usando a mesma assinatura, e não, necessariamente, tendo o mesmo retorno.
+Mesma assinatura diferentes classes é sobreposição
+
+#### Sobrecarga
+São métodos com mesmo nome e com diferentes assinaturas (quantidade e tipos de parâmetros), contendo diferentes ou os mesmo retornos.
+Assinaturas diferentes e mesmas classes é sobrecarga. 
