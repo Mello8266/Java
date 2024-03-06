@@ -60,3 +60,47 @@
 <h3> 15 </h3>
 
 ![image](https://github.com/Mello8266/Java/assets/95052043/786b09f4-6ea6-4961-8fc0-d4ffd6c27268)
+
+# Exercícios aula 14
+## Exercícios de concurso sobre POO.
+
+### 1
+
+![image](https://github.com/Mello8266/Java-POO/assets/95052043/453d0f98-4748-4ba3-9d2a-0d2d4e6560ad)
+
+### 2
+
+![image](https://github.com/Mello8266/Java-POO/assets/95052043/2f53db46-7c05-4164-9676-a19649e5bf5c)
+
+### 3
+
+![image](https://github.com/Mello8266/Java-POO/assets/95052043/4ad45c81-de92-4e1d-861b-98f95669c7f0
+
+### 4
+
+![image](https://github.com/Mello8266/Java-POO/assets/95052043/6f5ebd4a-cabe-4ace-8057-2f67fc6593b0)
+
+### 5
+
+![image](https://github.com/Mello8266/Java-POO/assets/95052043/3406956f-b346-4a8b-ad77-1b822fdcb660)
+
+### 6
+
+![image](https://github.com/Mello8266/Java-POO/assets/95052043/322d38f5-ff07-4ddf-9b53-00ac72b8322e)
+
+### 7
+
+![image](https://github.com/Mello8266/Java-POO/assets/95052043/6e9dac77-aca1-4c38-b756-a2fd5cf238ed)
+
+### 8
+
+![image](https://github.com/Mello8266/Java-POO/assets/95052043/ecd6a38b-22f9-440b-9ee8-5349723fd1f9)
+
+
+### 9
+
+![image](https://github.com/Mello8266/Java-POO/assets/95052043/9a485d0a-f71a-4ab8-8417-fb38f1fa6ddd)
+
+### 10
+
+![image](https://github.com/Mello8266/Java-POO/assets/95052043/51fda6ce-fbdd-441f-9d6d-5dbdaab467f8)
